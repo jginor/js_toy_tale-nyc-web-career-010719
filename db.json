@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Create New Toy",
+      "image": "http://www.stickpng.com/assets/images/580b57fbd9996e24bc43c0a0.png",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
